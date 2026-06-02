@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 I'm Hang, a CS student at Northeastern.
 
