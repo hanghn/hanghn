@@ -1,5 +1,9 @@
-### Hi, I'm Hang 👋
+## Hi there 👋
 
-I'm a CS student at Northeastern. I grew up in Jing'an, downtown Shanghai, a city where good restaurants are still open at midnight and metro stations double as malls. My family runs a food manufacturing factory in Songjiang, and I spent a lot of my spare time there in high school.
+I'm Hang, a CS student at Northeastern.
 
-I'm interested in AI applications and automation in daily life to take boring parts off the plate, and I'd love to bring that back to my parents' factory, building tools to make it run a little smoother.
+- 🔭 I'm currently working on … machine learning and full-stack web projects
+- 🌱 I'm currently learning … applied AI, data pipelines, and software development
+- ⚡ Fun fact … my family runs a food manufacturing factory in Shanghai, and I'd love to bring AI back to it someday
+
+I'm interested in AI applications in daily life. Always happy to chat if anything sparks your interest.
